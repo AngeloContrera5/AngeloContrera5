@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngeloContrera5
 - 👀 I’m interested in program programs with programming languages xd
-- 🌱 I’m currently learning programming languages like JS, C#, NodeJS, Dart (Flutter)
+- 🌱 I’m currently learning programming languages like JS, NodeJS, Dart (Flutter)
 - 📫 How to reach me : send me DM on Discord angelocontrera5#0138
 
 <!---
