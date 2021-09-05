@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngeloContrera5
 - 👀 I’m interested in program programs with programming languages xd
-- 🌱 I’m currently learning programming languages like JS, NodeJS, Dart (Flutter)
-- 📫 How to reach me : send me DM on Discord angelocontrera5#0138
+- 🌱 I’m currently learning programming languages like Java, JS, NodeJS, Dart (Flutter) and Swift
+- 📫 How to reach me : send me DM on Discord angelocontrera5#0101
 
 <!---
 AngeloContrera5/AngeloContrera5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
